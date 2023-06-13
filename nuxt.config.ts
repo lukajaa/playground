@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   app: {
     head: {
-      title: 'Lukajaa Nuxt Template'
+      title: 'Playground'
     }
   },
   css: ['@/assets/styles/main.scss'],
