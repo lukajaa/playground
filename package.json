@@ -30,6 +30,7 @@
     "sass": "^1.63.3"
   },
   "dependencies": {
-    "eslint-loader": "^4.0.2"
+    "eslint-loader": "^4.0.2",
+    "inter-ui": "^3.19.3"
   }
 }

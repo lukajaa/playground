@@ -18,11 +18,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
     'nuxt-icon'
   ],
-  googleFonts: {
-    families: {
-      Inter: true
-    }
-  },
+  googleFonts: {},
   colorMode: {
     classSuffix: ''
   },

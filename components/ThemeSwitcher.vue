@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute right-0 top-0 m-4 text-yellow-500 dark:text-yellow-300">
+  <div class="text-yellow-500 dark:text-yellow-300">
     <ColorScheme placeholder="..." tag="span">
       <Icon
         v-if="$colorMode.value === 'light'"

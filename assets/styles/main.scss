@@ -1,7 +1,10 @@
-* {
-    font-family: 'Inter', sans-serif;
+html { font-family: "Inter", "system-ui"; }
+
+@supports (font-variation-settings: normal) {
+  html { font-family: "Inter var", "system-ui"; }
 }
 
-a:hover {
-    text-decoration: underline;
+a {
+  text-decoration: underline;
+  font-weight: 500;
 }
